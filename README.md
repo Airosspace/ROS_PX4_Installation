@@ -3,6 +3,11 @@
 
 This Installation will help to set up the environment to start running simulations in Gazebo using ROS and PX4 firmware. The Firmware provides launch files to run a simulation with single or multiple drones.
 
+## Screenshots
+
+![Multi-Drone Shots](https://github.com/Airosspace/ROS_PX4_Installation/blob/main/images/image1.png)\
+![Multi-Drone GCS Swarm Operation](https://github.com/Airosspace/ROS_PX4_Installation/blob/main/images/image2.png)
+
 ## Installation
 You will need a clean installation of Ubuntu 20 on your computer.\
 First install Git for Cloning the repositories.
@@ -69,8 +74,8 @@ Now All necessary packages and dependencies are installed properly and now we ar
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[AIROSSPACE](https://choosealicense.com/licenses/mit/)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Airosspace/ROS_PX4_Installation/blob/main/images/logo.png)
 

@@ -6,7 +6,7 @@ This Installation will help to set up the environment to start running simulatio
 ## Screenshots
 
 ![Multi-Drone Shots](https://github.com/Airosspace/ROS_PX4_Installation/blob/main/images/image1.png)\
-![Multi-Drone GCS Swarm Operation](https://github.com/Airosspace/ROS_PX4_Installation/blob/main/images/image2.png)
+![Multi-Drone GCS Swarm Operation](https://github.com/Airosspace/ROS_PX4_Installation/blob/main/images/iamge2.png)
 
 ## Installation
 You will need a clean installation of Ubuntu 20 on your computer.\

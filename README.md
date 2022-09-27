@@ -42,7 +42,7 @@ Close the terminal and open it again and Run the Commands for ROS Installation t
 ```
 Now we need to source the path variables into the bashrc file.
 ```bash
-    source Tools/setup_gazebo.bash $(pwd) $(pwd)/build/px4_sitl_default
+    source Tools/simulation/gazebo/setup_gazebo.bash $(pwd) $(pwd)/build/px4_sitl_default
     export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:$(pwd):$(pwd)/Tools/sitl_gazebo
 ```
 Close the terminal and open up a new one and run the below command
